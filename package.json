@@ -1,0 +1,14 @@
+{
+  "name": "@qajs/ops",
+  "version": "0.0.1",
+  "private": false,
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "dependencies": {
+  },
+  "scripts": {
+    "commit": "git add .; git commit -m 'i'; git push -u origin master"
+  }
+  }
+
+
+  
